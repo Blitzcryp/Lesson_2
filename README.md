@@ -8,3 +8,4 @@ CSS Training while working @ Middleout
 * Descendant Selectors
 * Grouping Selectors
 * Get your hands dirty (once again?!)
+11:38 Finished CSS Part2 Project
