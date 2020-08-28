@@ -1,38 +1,13 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-div{
-    background: #4d2;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #fff;
-    text-align: center;
-    font-size: 50px;
-}
-
-#monkey{
-    background: #fff;
-    color: #42d;
-}
-
-div#donkey{
-    background: #9dc;
-    color: #0ab;
-}
-
-.primary-box{
-    background: #91c;
-    color: #f9f;
-    margin: 0 0 50px;   
-
-    box-shadow: 0px 5px 10px;
+.primary-box em{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .secondary-box{
-    background: #f9aff1;
-    color: #22f;
-    box-shadow: 0px 5px 10px;
-    margin: 0 0 50px;
+    color: blue;
+}
 
-    box-shadow: 0px 5px 10px;
+.secondary-box p {
+    color: #fc3fff;
+    font-size: 50px;
 }
