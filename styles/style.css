@@ -1,0 +1,17 @@
+div{
+    background: #4d2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
+
+#monkey{
+    background: #fff;
+    color: #42d;
+}
+
+div#donkey{
+    background: #9dc;
+    color: #0ab;
+}
