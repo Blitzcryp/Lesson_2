@@ -11,3 +11,6 @@ CSS Training while working @ Middleout
 * Get your hands dirty (once again?!)
 
 11:38 Finished CSS Part2 Project
+
+#8/31/2020
+12:57 Finished CSS Part 3 Project
